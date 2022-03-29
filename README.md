@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @miguelvalderrama
+- 👀 I’m interested in machine learning and data science
+- 🌱 🌱 I’m currently studying Systems engineer at the UBA
+- 💞️ I’m looking to collaborate on projects with data-driven decisions and automation with machine learning algorithms
+- 📫 How to reach me - miguelvalderram8@gmail.com - @miguelvalderram8
